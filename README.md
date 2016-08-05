@@ -7,7 +7,6 @@
 * Gigster https://gigster.com/
 * Gun.io https://gun.io/
 * HappyFunCorp http://happyfuncorp.com
-* Hired https://hired.com/contract-jobs
 * HN Hiring http://hnhiring.me/
 * LiquidTalent http://www.liquidtalent.com/
 * LocalSolo https://localsolo.com/
@@ -15,6 +14,7 @@
 * Metova https://metova.com/
 * Mobomo https://www.mobomo.com/
 * Mokriya http://mokriya.com/
+* NODESK http://nodesk.co/remote-work/
 * Orangecaffeine http://www.orangecaffeine.com/
 * Ramotion https://ramotion.com/
 * Remote OK https://remoteok.io/
